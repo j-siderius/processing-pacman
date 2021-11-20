@@ -30,7 +30,7 @@ class Ghost {
     } else if (ghostDirection == 'W') {
       if (playingField[ghostY][ghostX-1] != 1) ghostX -= 1;
       else ghostDirection = possibleDirections[int(random(4))];
-    } else if (ghostDirection == 'N') {
+    } else if (ghostDirection == 'E') {
       if (playingField[ghostY][ghostX+1] != 1) ghostX += 1;
       else ghostDirection = possibleDirections[int(random(4))];
     }
