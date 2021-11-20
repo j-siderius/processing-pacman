@@ -12,6 +12,6 @@ Win / Lose message after playing
 
 ## Images
 
-![alt text](https://github.com/j-siderius/processing-pacman/img/1.png)
-![alt text](https://github.com/j-siderius/processing-pacman/img/2.png)
-![alt text](https://github.com/j-siderius/processing-pacman/img/3.png)
+![alt text](https://github.com/j-siderius/processing-pacman/blob/main/img/1.png)
+![alt text](https://github.com/j-siderius/processing-pacman/blob/main/img/2.png)
+![alt text](https://github.com/j-siderius/processing-pacman/blob/main/img/3.png)
