@@ -1,6 +1,6 @@
 # PacMan lookalike
 
-Simple PacMan lookalike made in Processing
+### Simple PacMan lookalike made in Processing
 
 Program is split up in three classes:
 - main class, includes the field renderer and score keeping
@@ -8,6 +8,7 @@ Program is split up in three classes:
 - player class, includes rendering and movement
 
 The game is controlled with WASD keys
+
 Win / Lose message after playing
 
 ## Images
