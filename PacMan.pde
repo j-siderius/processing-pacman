@@ -126,10 +126,6 @@ void draw() {
       score++;
       playingField[player.getY()][player.getX()] = 0;
     }
-
-    // check if player collided with ghost
-    if (player.getX() == ghost.getX() && player.getY() == ghost.getY()) gameRun = false;
-  }
 }
 
 
